@@ -12,7 +12,7 @@ document.getElementById('addTaskBtn').addEventListener('click', function () {
 
     const li = document.createElement('li');
 
-    li.style.fontSize = "20px";
+    li.style.fontSize = "15px";
 
     // li.setAttribute("class", "thisclass")
 

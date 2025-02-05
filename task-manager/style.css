@@ -1,3 +1,13 @@
 body {
-    background-color: aqua;
+    background-color: rgb(17, 122, 174);
+    justify-items: center;
+}
+
+#taskList{
+    padding-block: 10px;
+    font-size: 8px;
+    background-color: #fff;
+    width: fit-content;
+    padding-right: 10px;
+    border-radius: 20px;
 }
