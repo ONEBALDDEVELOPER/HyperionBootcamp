@@ -1,1 +1,1 @@
-this is a workbook for hyperion dev bootcamp
+this is a workbook for HyperionDev Bootcamp
